@@ -1,0 +1,12 @@
+﻿global using api.Models;
+global using api.Data;
+global using api.Exceptions;
+global using api.Dtos.JobOffer;
+global using api.Interfaces;
+global using Mapster;
+global using api.Dtos.Account;
+global using api.Dtos.Application;
+global using api.Dtos.Ocr;
+global using api.Dtos.Ollama;
+global using api.Repositories;
+global using api.Services;

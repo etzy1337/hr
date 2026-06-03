@@ -1,0 +1,45 @@
+name: dockercompose9932075224979645272
+services:
+  hrdb:
+    container_name: hrdb
+    environment:
+      POSTGRES_DB: HrDb
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    image: postgres:16
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5433"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: postgres_hrdb
+        target: /var/lib/postgresql/data
+        volume: {}
+  ollama:
+    container_name: ollama
+    image: ollama/ollama
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 11434
+        published: "11434"
+        protocol: tcp
+    volumes:
+      - type: volume
+        source: ollama_volume
+        target: /root/.ollama
+        volume: {}
+networks:
+  default:
+    name: dockercompose9932075224979645272_default
+volumes:
+  ollama_volume:
+    name: dockercompose9932075224979645272_ollama_volume
+  postgres_hrdb:
+    name: dockercompose9932075224979645272_postgres_hrdb

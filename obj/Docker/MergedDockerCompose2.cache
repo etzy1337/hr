@@ -1,0 +1,28 @@
+name: dockercompose9932075224979645272
+services:
+  hrdb:
+    container_name: hrdb
+    environment:
+      POSTGRES_DB: HrDb
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    image: postgres:16
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: postgres_hrdb
+        target: /var/lib/postgresql/data
+        volume: {}
+networks:
+  default:
+    name: dockercompose9932075224979645272_default
+volumes:
+  postgres_hrdb:
+    name: dockercompose9932075224979645272_postgres_hrdb

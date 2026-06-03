@@ -1,0 +1,1010 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\hr\\HR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\services\\applicationbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\services\\applicationbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\services\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\services\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\exceptions\\invalidcredentialexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\exceptions\\invalidcredentialexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\controllers\\ollamacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\controllers\\ollamacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDCC505-6EDB-48C4-80FF-E863F998AEFC}|docker-compose.dcproj|c:\\hr\\hr\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9FDCC505-6EDB-48C4-80FF-E863F998AEFC}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\exceptions\\handler\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\exceptions\\handler\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\dtos\\ollama\\ollamarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\dtos\\ollama\\ollamarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\interfaces\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\interfaces\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\dtos\\application\\getgroupedapplicationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\dtos\\application\\getgroupedapplicationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\interfaces\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\interfaces\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\dtos\\account\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\dtos\\account\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDCC505-6EDB-48C4-80FF-E863F998AEFC}|docker-compose.dcproj|c:\\hr\\hr\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9FDCC505-6EDB-48C4-80FF-E863F998AEFC}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\data\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\data\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\repositories\\jobofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\repositories\\jobofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDCC505-6EDB-48C4-80FF-E863F998AEFC}|docker-compose.dcproj|c:\\hr\\hr\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FDCC505-6EDB-48C4-80FF-E863F998AEFC}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\mappers\\applicationmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\mappers\\applicationmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\dtos\\ollama\\ollamaevaluationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\dtos\\ollama\\ollamaevaluationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\services\\ocrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\services\\ocrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\controllers\\ocrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\controllers\\ocrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\interfaces\\iocrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\interfaces\\iocrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\models\\joboffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\models\\joboffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\interfaces\\iqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\interfaces\\iqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\dtos\\ollama\\ollamaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\dtos\\ollama\\ollamaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\interfaces\\iollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\interfaces\\iollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\controllers\\joboffercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\controllers\\joboffercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\models\\cv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\models\\cv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\repositories\\cvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\repositories\\cvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\dtos\\ocr\\ocrresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\dtos\\ocr\\ocrresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\interfaces\\icvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\interfaces\\icvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\dtos\\application\\getapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\dtos\\application\\getapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\dtos\\application\\addapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\dtos\\application\\addapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\dtos\\account\\loggeduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\dtos\\account\\loggeduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\interfaces\\ijobofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\interfaces\\ijobofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\dtos\\joboffer\\addjobofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\dtos\\joboffer\\addjobofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\dtos\\joboffer\\getjobofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\dtos\\joboffer\\getjobofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|c:\\hr\\hr\\api\\migrations\\20260601135425_i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79F1F32-3F7F-4928-BFB1-518A395D882C}|api\\api.csproj|solutionrelative:api\\migrations\\20260601135425_i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IApplicationService.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Interfaces\\IApplicationService.cs",
+              "RelativeDocumentMoniker": "api\\Interfaces\\IApplicationService.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Interfaces\\IApplicationService.cs",
+              "RelativeToolTip": "api\\Interfaces\\IApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:17:04.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvalidCredentialException.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Exceptions\\InvalidCredentialException.cs",
+              "RelativeDocumentMoniker": "api\\Exceptions\\InvalidCredentialException.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Exceptions\\InvalidCredentialException.cs",
+              "RelativeToolTip": "api\\Exceptions\\InvalidCredentialException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:55:50.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OllamaService.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Services\\OllamaService.cs",
+              "RelativeDocumentMoniker": "api\\Services\\OllamaService.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Services\\OllamaService.cs",
+              "RelativeToolTip": "api\\Services\\OllamaService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:39:42.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OllamaRequestDto.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Dtos\\Ollama\\OllamaRequestDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Ollama\\OllamaRequestDto.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Dtos\\Ollama\\OllamaRequestDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Ollama\\OllamaRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:11:47.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Dockerfile",
+              "RelativeDocumentMoniker": "api\\Dockerfile",
+              "ToolTip": "C:\\hr\\HR\\api\\Dockerfile",
+              "RelativeToolTip": "api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-30T10:40:13.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\hr\\HR\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\hr\\HR\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-05-30T09:59:07.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OllamaController.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Controllers\\OllamaController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\OllamaController.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Controllers\\OllamaController.cs",
+              "RelativeToolTip": "api\\Controllers\\OllamaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:49:19.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "api\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "api\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T16:08:01.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationBackgroundService.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Services\\ApplicationBackgroundService.cs",
+              "RelativeDocumentMoniker": "api\\Services\\ApplicationBackgroundService.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Services\\ApplicationBackgroundService.cs",
+              "RelativeToolTip": "api\\Services\\ApplicationBackgroundService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAnwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T13:48:11.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Exceptions\\Handler\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "api\\Exceptions\\Handler\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Exceptions\\Handler\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "api\\Exceptions\\Handler\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAnwC8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T16:02:20.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Repositories\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repositories\\ApplicationRepository.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Repositories\\ApplicationRepository.cs",
+              "RelativeToolTip": "api\\Repositories\\ApplicationRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA0wAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:07:25.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetGroupedApplicationsDto.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Dtos\\Application\\GetGroupedApplicationsDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Application\\GetGroupedApplicationsDto.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Dtos\\Application\\GetGroupedApplicationsDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Application\\GetGroupedApplicationsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T15:44:21.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Interfaces\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "api\\Interfaces\\IApplicationRepository.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Interfaces\\IApplicationRepository.cs",
+              "RelativeToolTip": "api\\Interfaces\\IApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:32:47.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "api\\Controllers\\ApplicationController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:11:59.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Data\\Extensions.cs",
+              "RelativeDocumentMoniker": "api\\Data\\Extensions.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Data\\Extensions.cs",
+              "RelativeToolTip": "api\\Data\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T10:28:30.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Services\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "api\\Services\\ApplicationService.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Services\\ApplicationService.cs",
+              "RelativeToolTip": "api\\Services\\ApplicationService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwFoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:18:09.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "api\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:28:32.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Services\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "api\\Services\\CurrentUserService.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Services\\CurrentUserService.cs",
+              "RelativeToolTip": "api\\Services\\CurrentUserService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:33:58.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthResultDto.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Dtos\\Account\\AuthResultDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Account\\AuthResultDto.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Dtos\\Account\\AuthResultDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Account\\AuthResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:08:10.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "api\\Services\\AccountService.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Services\\AccountService.cs",
+              "RelativeToolTip": "api\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:45:51.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "api\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "api\\Interfaces\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:35:38.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T10:00:43.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\hr\\HR\\api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-30T21:59:30.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "api\\appsettings.json",
+              "ToolTip": "C:\\hr\\HR\\api\\appsettings.json",
+              "RelativeToolTip": "api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-30T09:43:56.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\hr\\HR\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\hr\\HR\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-05-30T08:04:37.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JobOfferRepository.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Repositories\\JobOfferRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repositories\\JobOfferRepository.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Repositories\\JobOfferRepository.cs",
+              "RelativeToolTip": "api\\Repositories\\JobOfferRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvx0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T13:07:40.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\hr\\HR\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\hr\\HR\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-30T08:04:35.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Services\\QueueService.cs",
+              "RelativeDocumentMoniker": "api\\Services\\QueueService.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Services\\QueueService.cs",
+              "RelativeToolTip": "api\\Services\\QueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T13:44:10.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationMappers.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Mappers\\ApplicationMappers.cs",
+              "RelativeDocumentMoniker": "api\\Mappers\\ApplicationMappers.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Mappers\\ApplicationMappers.cs",
+              "RelativeToolTip": "api\\Mappers\\ApplicationMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:53:51.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OllamaEvaluationDto.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Dtos\\Ollama\\OllamaEvaluationDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Ollama\\OllamaEvaluationDto.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Dtos\\Ollama\\OllamaEvaluationDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Ollama\\OllamaEvaluationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:09:35.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OcrService.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Services\\OcrService.cs",
+              "RelativeDocumentMoniker": "api\\Services\\OcrService.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Services\\OcrService.cs",
+              "RelativeToolTip": "api\\Services\\OcrService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T17:02:41.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "api\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "api\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:19:23.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IOcrService.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Interfaces\\IOcrService.cs",
+              "RelativeDocumentMoniker": "api\\Interfaces\\IOcrService.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Interfaces\\IOcrService.cs",
+              "RelativeToolTip": "api\\Interfaces\\IOcrService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T16:59:17.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "api\\GlobalUsing.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\GlobalUsing.cs",
+              "RelativeToolTip": "api\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T12:59:22.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OcrController.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Controllers\\OcrController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\OcrController.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Controllers\\OcrController.cs",
+              "RelativeToolTip": "api\\Controllers\\OcrController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T17:37:29.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "JobOffer.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Models\\JobOffer.cs",
+              "RelativeDocumentMoniker": "api\\Models\\JobOffer.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Models\\JobOffer.cs",
+              "RelativeToolTip": "api\\Models\\JobOffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:07:19.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IQueueService.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Interfaces\\IQueueService.cs",
+              "RelativeDocumentMoniker": "api\\Interfaces\\IQueueService.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Interfaces\\IQueueService.cs",
+              "RelativeToolTip": "api\\Interfaces\\IQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T13:40:37.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "JobOfferController.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Controllers\\JobOfferController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\JobOfferController.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Controllers\\JobOfferController.cs",
+              "RelativeToolTip": "api\\Controllers\\JobOfferController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T19:47:05.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OllamaResponseDto.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Dtos\\Ollama\\OllamaResponseDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Ollama\\OllamaResponseDto.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Dtos\\Ollama\\OllamaResponseDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Ollama\\OllamaResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:12:09.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CV.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Models\\CV.cs",
+              "RelativeDocumentMoniker": "api\\Models\\CV.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Models\\CV.cs",
+              "RelativeToolTip": "api\\Models\\CV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:23:11.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "api\\Models\\AppUser.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Models\\AppUser.cs",
+              "RelativeToolTip": "api\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:13:16.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IOllamaService.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Interfaces\\IOllamaService.cs",
+              "RelativeDocumentMoniker": "api\\Interfaces\\IOllamaService.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Interfaces\\IOllamaService.cs",
+              "RelativeToolTip": "api\\Interfaces\\IOllamaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:12:46.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CvRepository.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Repositories\\CvRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repositories\\CvRepository.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Repositories\\CvRepository.cs",
+              "RelativeToolTip": "api\\Repositories\\CvRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T22:31:54.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OcrResultDto.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Dtos\\Ocr\\OcrResultDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Ocr\\OcrResultDto.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Dtos\\Ocr\\OcrResultDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Ocr\\OcrResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T17:00:10.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetApplicationDto.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Dtos\\Application\\GetApplicationDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Application\\GetApplicationDto.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Dtos\\Application\\GetApplicationDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Application\\GetApplicationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:24:42.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ICvRepository.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Interfaces\\ICvRepository.cs",
+              "RelativeDocumentMoniker": "api\\Interfaces\\ICvRepository.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Interfaces\\ICvRepository.cs",
+              "RelativeToolTip": "api\\Interfaces\\ICvRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T22:30:39.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "api\\Models\\Application.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Models\\Application.cs",
+              "RelativeToolTip": "api\\Models\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T15:39:23.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AddApplicationDto.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Dtos\\Application\\AddApplicationDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Application\\AddApplicationDto.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Dtos\\Application\\AddApplicationDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Application\\AddApplicationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:35:36.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "api\\Services\\TokenService.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Services\\TokenService.cs",
+              "RelativeToolTip": "api\\Services\\TokenService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T12:36:53.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Exceptions\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "api\\Exceptions\\UnauthorizedException.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Exceptions\\UnauthorizedException.cs",
+              "RelativeToolTip": "api\\Exceptions\\UnauthorizedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:49:17.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Dtos\\Account\\LoginDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Account\\LoginDto.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Dtos\\Account\\LoginDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Account\\LoginDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:37:28.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LoggedUserDto.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Dtos\\Account\\LoggedUserDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Account\\LoggedUserDto.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Dtos\\Account\\LoggedUserDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Account\\LoggedUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:59:07.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20260601135425_i.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Migrations\\20260601135425_i.cs",
+              "RelativeDocumentMoniker": "api\\Migrations\\20260601135425_i.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Migrations\\20260601135425_i.cs",
+              "RelativeToolTip": "api\\Migrations\\20260601135425_i.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:54:26.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Dtos\\Account\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Account\\RegisterDto.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Dtos\\Account\\RegisterDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Account\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:29:44.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "api\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "api\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T16:14:59.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IJobOfferRepository.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Interfaces\\IJobOfferRepository.cs",
+              "RelativeDocumentMoniker": "api\\Interfaces\\IJobOfferRepository.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Interfaces\\IJobOfferRepository.cs",
+              "RelativeToolTip": "api\\Interfaces\\IJobOfferRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T12:58:53.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "api\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "api\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T12:35:05.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GetJobOfferDto.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Dtos\\JobOffer\\GetJobOfferDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\JobOffer\\GetJobOfferDto.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Dtos\\JobOffer\\GetJobOfferDto.cs",
+              "RelativeToolTip": "api\\Dtos\\JobOffer\\GetJobOfferDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T19:49:12.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AddJobOfferDto.cs",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\Dtos\\JobOffer\\AddJobOfferDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\JobOffer\\AddJobOfferDto.cs",
+              "ToolTip": "C:\\hr\\HR\\api\\Dtos\\JobOffer\\AddJobOfferDto.cs",
+              "RelativeToolTip": "api\\Dtos\\JobOffer\\AddJobOfferDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T17:08:42.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "api.csproj",
+              "DocumentMoniker": "C:\\hr\\HR\\api\\api.csproj",
+              "RelativeDocumentMoniker": "api\\api.csproj",
+              "ToolTip": "C:\\hr\\HR\\api\\api.csproj",
+              "RelativeToolTip": "api\\api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-30T08:24:30.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

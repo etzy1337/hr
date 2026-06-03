@@ -1,0 +1,19 @@
+services:
+  hrdb: 
+    image: postgres:16
+
+  ollama:
+    image: ollama/ollama
+
+
+  api:
+    image: ${DOCKER_REGISTRY-}api
+    build:
+      context: .
+      dockerfile: api/Dockerfile
+
+volumes:
+  postgres_hrdb:  
+  ollama_volume:
+  
+

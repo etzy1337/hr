@@ -1,0 +1,83 @@
+name: dockercompose9932075224979645272
+services:
+  api:
+    build:
+      context: C:\hr\HR
+      dockerfile: api/Dockerfile
+    depends_on:
+      hrdb:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      ConnectionStrings__Database: Host=localhost; Port=5432; Database=HrDb; Username=postgres; Password=postgres
+    image: api
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "6000"
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        published: "6060"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\etzy\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\etzy\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  hrdb:
+    container_name: hrdb
+    environment:
+      POSTGRES_DB: HrDb
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    image: postgres:16
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5433"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: postgres_hrdb
+        target: /var/lib/postgresql/data
+        volume: {}
+  ollama:
+    container_name: ollama
+    image: ollama/ollama
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 11434
+        published: "11434"
+        protocol: tcp
+    volumes:
+      - type: volume
+        source: ollama_volume
+        target: /root/.ollama
+        volume: {}
+networks:
+  default:
+    name: dockercompose9932075224979645272_default
+volumes:
+  ollama_volume:
+    name: dockercompose9932075224979645272_ollama_volume
+  postgres_hrdb:
+    name: dockercompose9932075224979645272_postgres_hrdb
