@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace api.Controllers
@@ -15,6 +16,7 @@ namespace api.Controllers
 			var result = offers.Select(x=>x.Adapt<GetJobOfferDto>());
 			return Ok(result);
 		}
+		[Authorize(Roles = "Admin")]
 		[HttpPost]
 		public async Task<IActionResult>Post(AddJobOfferDto dto)
 		{
@@ -36,6 +38,7 @@ namespace api.Controllers
 
 			return Ok(result);
 		}
+		[Authorize(Roles = "Admin")]
 		[HttpDelete("{id}")]
 		public async Task<IActionResult> Delete(int id)
 		{

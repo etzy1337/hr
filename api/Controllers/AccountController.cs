@@ -25,6 +25,7 @@ namespace api.Controllers
 				SameSite = SameSiteMode.None,
 				Expires = DateTime.UtcNow.AddDays(7)
 			});
+
 			return Ok(new LoggedUserDto
 			{
 				Name = result.Name,

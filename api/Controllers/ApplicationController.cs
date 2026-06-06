@@ -18,19 +18,21 @@ namespace api.Controllers
 
 			return Ok(result);
 		}
+		[Authorize(Roles = "Admin,Examiner")]
 		[HttpGet("GetGroupedApplications")]
 		public async Task<IActionResult> GetGroupedApplications()
 		{
 			var result = await applicationService.GetGroupedApplicationsAsync();
 			return Ok(result);
 		}
+		[Authorize]
 		[HttpGet("{id}")]
 		public async Task<IActionResult>GetApplication(Guid id)
 		{
 			var result = await applicationService.GetApplicationAsync(id);
 			return Ok(result);
 		}
-
+		[Authorize(Roles = "Admin,Examiner")]
 		[HttpGet("EvaluateRetry")]
 		public IActionResult EvaluateRetry(Guid appId)
 		{
@@ -38,7 +40,7 @@ namespace api.Controllers
 
 			return Ok();
 		}
-
+		[Authorize(Roles = "Admin,Examiner")]
 		[HttpGet("GetUsersApplications")]
 		public async Task<IActionResult> GetUsersApplications()
 		{
@@ -46,13 +48,14 @@ namespace api.Controllers
 
 			return Ok(result);
 		}
+		[Authorize(Roles = "Admin,Examiner")]
 		[HttpPut("RejectApp")]
 		public async Task<IActionResult>RejectApp(Guid id)
 		{
 			await applicationRepository.RejectApplicationAsync(id);
 			return Ok();
 		}
-
+		[Authorize(Roles = "Admin,Examiner")]
 		[HttpPut("AcceptApp")]
 		public async Task<IActionResult> AcceptApp(Guid id)
 		{

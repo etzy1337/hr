@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using System.Threading.RateLimiting;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -29,6 +30,10 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
 	options.Password.RequireNonAlphanumeric = false;
 	options.Password.RequireLowercase = true;
 	options.Password.RequireUppercase = true;
+
+	options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(15);
+	options.Lockout.MaxFailedAccessAttempts = 5;
+	options.Lockout.AllowedForNewUsers = true;
 })
 .AddDefaultTokenProviders()
 .AddEntityFrameworkStores<ApplicationDBContext>();
@@ -76,6 +81,25 @@ builder.Services.AddCors(options =>
 	});
 });
 
+builder.Services.AddRateLimiter(options =>
+{
+	options.AddPolicy("fixed", context =>
+	{
+		var ip = context.Connection.RemoteIpAddress?.ToString() ?? "unknown";
+
+		return RateLimitPartition.GetFixedWindowLimiter(
+		  partitionKey: ip,
+		  factory: _ => new FixedWindowRateLimiterOptions
+		  {
+			  PermitLimit = 100,
+			  Window = TimeSpan.FromSeconds(30)
+		  }
+		);
+	});
+
+	options.RejectionStatusCode = StatusCodes.Status429TooManyRequests;
+});
+
 builder.Services.AddExceptionHandler<GlobalExceptionHandler>();
 builder.Services.AddProblemDetails();
 
@@ -95,8 +119,11 @@ builder.Services.AddHttpClient();
 
 var app = builder.Build();
 
-app.UseSwagger();
-app.UseSwaggerUI();
+if (app.Environment.IsDevelopment())
+{
+	app.UseSwagger();
+	app.UseSwaggerUI();
+}
 
 // Configure the HTTP request pipeline.
 app.UseExceptionHandler(opts => { });
@@ -106,12 +133,17 @@ app.UseHttpsRedirection();
 
 app.UseCors("cors");
 
+
+
+app.UseMigration();
+
+app.UseRateLimiter();
+
+app.MapControllers().RequireRateLimiting("fixed");
+
 app.UseAuthentication();
 app.UseAuthorization();
 
-app.MapControllers();
-
-app.UseMigration();
 
 
 app.Run();

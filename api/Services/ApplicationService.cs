@@ -29,6 +29,28 @@ namespace api.Services
 
 			if (dto.CV != null && dto.CV.Length > 0)
 			{
+
+				const long maxFileSize = 5 * 1024 * 1024; // 5 MB
+
+				if (dto.CV.Length > maxFileSize)
+				{
+					throw new BadRequestException("CV cannot exceed 5 MB");
+				}
+
+				if (!string.Equals(
+						Path.GetExtension(dto.CV.FileName),
+						".pdf",
+						StringComparison.OrdinalIgnoreCase))
+				{
+					throw new BadRequestException("Only PDF files are allowed");
+				}
+
+				if (dto.CV.ContentType != "application/pdf")
+				{
+					throw new BadRequestException("Invalid file type");
+				}
+
+
 				using var ms = new MemoryStream();
 				await dto.CV.CopyToAsync(ms);
 
